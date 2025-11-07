@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **C / C++ / Git / GitHub**
 - 💬 Ask me about **programming, problem solving, and open-source**
-- 📫 Reach me at **[your_email@example.com]**
+- 📫 Reach me at **[koushik2005paul@gmail.com]**
 - ⚡ Fun fact: I believe debugging is just detective work 🕵️‍♂️
 
 ---
@@ -50,8 +50,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/imkoushikpaul2005/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:koushik2005paul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/KoushikPaul"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
