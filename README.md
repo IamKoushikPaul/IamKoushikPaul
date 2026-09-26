@@ -31,15 +31,8 @@
   <img src="https://streak-stats.demolab.com?user=KoushikPaul&theme=tokyonight&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoushikPaul&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="KoushikPaul GitHub Trophies">
-</p>
 
 
 ### 🌐 Connect with Me
