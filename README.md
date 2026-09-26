@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KoushikPaul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Contributions-Jan%201%2C%202025%20--%20Present-00D9FF?style=for-the-badge" alt="Contributions Jan 1, 2025 - Present" />
 </p>
 
 <p align="center">
