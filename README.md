@@ -40,10 +40,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoushikPaul&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="KoushikPaul's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KoushikPaul&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="KoushikPaul GitHub Trophies">
 </p>
-
----
 
 
 ### 🌐 Connect with Me
