@@ -24,35 +24,22 @@
 ---
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <a href="YOUR_PROJECT_1_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushikPaul&repo=YOUR_PROJECT_1_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="YOUR_PROJECT_2_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushikPaul&repo=YOUR_PROJECT_2_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-### 🗳️ Online Voting System
-
-A database-based online voting system built with **Python and MySQL**.
-
-**Tech:** Python • MySQL • SQL
-
-🔗 [View Project](YOUR_REPOSITORY_LINK)
-
-</td>
-
-<td width="50%">
-
-### ⏰ Smart Reminder Pro
-
-A console-based reminder application with reminders, notifications, recurring tasks, and data management.
-
-**Tech:** C • File Handling
-
-🔗 [View Project](YOUR_REPOSITORY_LINK)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>💡 Turning ideas into code, one project at a time.</i>
+</p>
 
 ---
 ## 📊 GitHub Stats
