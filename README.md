@@ -77,8 +77,8 @@ A console-based reminder application with reminders, notifications, recurring ta
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://www.facebook.com/imkoushikpaul" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+ <a href="https://www.facebook.com/imkoushikpaul" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
   </a>
 
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
