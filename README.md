@@ -59,7 +59,7 @@ A console-based reminder application with reminders, notifications, recurring ta
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Jan%201%2C%202025%20--%20Present-00BFFF?style=for-the-badge&labelColor=0D1117" alt="Contributions Jan 1, 2025 - Present" />
+<img src="https://streak-stats.demolab.com?user=KoushikPaul&theme=tokyonight&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 
