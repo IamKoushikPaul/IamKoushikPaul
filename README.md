@@ -26,18 +26,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul&show_icons=true&theme=tokyonight" alt="KoushikPaul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul&show_icons=true&theme=tokyonight&hide_border=true" alt="KoushikPaul's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KoushikPaul&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KoushikPaul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
 
 ### 🏆 GitHub Trophies
 
