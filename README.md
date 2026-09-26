@@ -37,9 +37,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=KoushikPaul&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" /> </p> ---
+## 🏆 GitHub Trophies
 
----
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=KoushikPaul&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true"
+    alt="KoushikPaul's GitHub Trophies"
+  />
+</p>
+
 
 ### 🌐 Connect with Me
 
