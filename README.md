@@ -22,7 +22,39 @@
 </p>
 
 ---
+---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗳️ Online Voting System
+
+A database-based online voting system built with **Python and MySQL**.
+
+**Tech:** Python • MySQL • SQL
+
+🔗 [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+<td width="50%">
+
+### ⏰ Smart Reminder Pro
+
+A console-based reminder application with reminders, notifications, recurring tasks, and data management.
+
+**Tech:** C • File Handling
+
+🔗 [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+</tr>
+</table>
+
+---
 ## 📊 GitHub Stats
 
 
