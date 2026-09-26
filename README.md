@@ -26,20 +26,37 @@
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="YOUR_PROJECT_1_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushikPaul&repo=YOUR_PROJECT_1_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="YOUR_PROJECT_2_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushikPaul&repo=YOUR_PROJECT_2_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <i>💡 Turning ideas into code, one project at a time.</i>
-</p>
+### 🗳️ Online Voting System
+
+A database-based online voting system built with **Python and MySQL**.
+
+**Tech:** Python • MySQL • SQL
+
+🔗 [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+<td width="50%">
+
+### ⏰ Smart Reminder Pro
+
+A console-based reminder application with reminders, notifications, recurring tasks, and data management.
+
+**Tech:** C • File Handling
+
+🔗 [View Project](YOUR_REPOSITORY_LINK)
+
+</td>
+</tr>
+</table>
 
 ---
 ## 📊 GitHub Stats
@@ -63,28 +80,7 @@
 </p>
 
 ---
-## 🚀 Featured Projects
 
-<p align="center">
-  <a href="YOUR_PROJECT_1_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushikPaul&repo=YOUR_PROJECT_1_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="YOUR_PROJECT_2_LINK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KoushikPaul&repo=YOUR_PROJECT_2_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💻_Code-Build-Learn-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Projects-2+-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌱_Always-Learning-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>✨ Building today. Learning every day. Creating for tomorrow.</b>
-</p>
-
----
 ⭐ **_Thanks for visiting my profile!_**  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KoushikPaul&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
