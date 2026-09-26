@@ -69,9 +69,21 @@ A console-based reminder application with reminders, notifications, recurring ta
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imkoushikpaul2005/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:koushik2005paul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.facebook.com/imkoushikpaul"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.linkedin.com/in/imkoushikpaul2005/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:koushik2005paul@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://www.facebook.com/imkoushikpaul" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
+  </a>
 </p>
 
 ---
