@@ -71,7 +71,7 @@ A console-based reminder application with reminders, notifications, recurring ta
 <p align="center">
   <a href="https://www.linkedin.com/in/imkoushikpaul2005/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:koushik2005paul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/KoushikPaul"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.facebook.com/imkoushikpaul"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
 
 ---
