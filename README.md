@@ -22,11 +22,6 @@
 </p>
 
 ---
----
-
----
-
----
 
 ## 🚀 Featured Projects
 
