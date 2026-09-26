@@ -25,9 +25,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul&show_icons=true&theme=tokyonight&hide_border=true" alt="KoushikPaul's GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KoushikPaul&theme=tokyonight&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
