@@ -35,7 +35,7 @@ A database-based online voting system built with **Python and MySQL**.
 
 **Tech:** Python • MySQL • SQL
 
-🔗 [View Project](YOUR_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/IamKoushikPaul/OnlineVotingSystem)
 
 </td>
 
