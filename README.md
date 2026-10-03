@@ -47,7 +47,7 @@ A console-based reminder application with reminders, notifications, recurring ta
 
 **Tech:** C • File Handling
 
-🔗 [View Project](YOUR_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/IamKoushikPaul/Group07SmartReminderPro)
 
 </td>
 </tr>
