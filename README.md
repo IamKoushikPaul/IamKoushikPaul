@@ -38,7 +38,6 @@ A database-based online voting system built with **Python and MySQL**.
 🔗 [View Project](https://github.com/IamKoushikPaul/OnlineVotingSystem)
 
 </td>
-
 <td width="50%">
 
 ### ⏰ Smart Reminder Pro
@@ -51,9 +50,23 @@ A console-based reminder application with reminders, notifications, recurring ta
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%">
 
----
+### 💭 Regret Exchange Platform
+
+A web-based platform where students can share regrets anonymously, exchange advice, and learn from others' experiences.
+
+**Tech:** HTML • CSS • PHP • MySQL
+
+🔗 [View Project](https://github.com/IamKoushikPaul/RegretExchangePlatform)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 ## 📊 GitHub Stats
 
 
