@@ -57,7 +57,7 @@ A console-based reminder application with reminders, notifications, recurring ta
 
 A web-based platform where students can share regrets anonymously, exchange advice, and learn from others' experiences.
 
-**Tech:** HTML • CSS • PHP • MySQL
+**Tech:** HTML • CSS • PHP • MySQL • Javascript
 
 🔗 [View Project](https://github.com/IamKoushikPaul/RegretExchangePlatform)
 
