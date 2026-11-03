@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **C / C++ / Git / GitHub**
+- 🌱 I’m currently learning **C / C++ / Git / GitHub / Java / PHP / CSS / HTML / Javascript / Python**
 - 💬 Ask me about **programming, problem solving, and open-source**
 - 📫 Reach me at **[koushik2005paul@gmail.com]**
 - ⚡ Fun fact: I believe debugging is just detective work 🕵️‍♂️
